@@ -26,7 +26,6 @@
 ---
 
 ## 📂 Folder Structure
-
 Brainly/
 ├── backend/ # Express.js backend
 │ ├── routes/ # API routes
@@ -44,12 +43,6 @@ Brainly/
 ├── .env # Environment variables
 ├── package.json # Project metadata
 └── README.md # Documentation
-
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Installation & Setup
 
